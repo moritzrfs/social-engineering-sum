@@ -353,3 +353,235 @@ Müll durchforsten
 - Entscheidend für die Angriffsplanung
 - Diskreter Ablauf
 - Profilerstellung
+
+### 2.2.2 Vorwandsentwicklung (Pretexting)
+
+- Schritt, sich als jemand Anderen auszugeben, um an private Informationen zu gelangen
+- Schaffung einer neuen Identität
+  - Oder Annehmen einer anderen Identität
+
+Prinzipien:
+1. Stets an Ziele denken
+   1. Wahl der richtigen Identität
+   2. OSINT als Basis für richtige Wahl der Person
+2. Realität vs. Erfindung verstehen
+   1. Nicht in Details verlieren 
+3. Grenzen kennen
+4. Verlust des Kurzzeitgedächtnisses
+5. Unterstützung für das Pretexting
+   1. Überlegen von Antworten im Vorhinein
+   2. Im Vorhinein üben
+
+### 2.2.3 Angriffsplanung
+
+#### Rapport
+Bezeichnet eine aktuell vertrauensvolle, von wechselseitiger empathischer Aufmerksamkeit getragene Beziehung, d. h. „guten Kontakt“ zwischen zwei Menschen.
+
+##### Der Tribe
+
+Bezeichnet alle Identifikationsmerkmale
+
+#### Prinzipiehn beim Aufbau von Rapport
+
+1. Künstliche Zeitbeschränkungen
+2. Die non-verbale Kommunikation anpassen
+3. Herabgesetzte Sprechgeschwindigkeit
+4. Sympathie- oder Hilfethemen
+5. Das Ego beiseitestellen
+6. Bestätigung
+7. Wie-, Wann- oder Warum-Fragen stellen
+8. Quid pro quo
+9. Gegenseitiger Altruismus
+10. Umgang mit den eigenen Ansprüchen
+
+### Künstliche Zeitbeschränkungen
+
+- Zeitspanne kurz halten, um zeitlichen Druck zu erzeugen
+- Fluchtweg Konversation zu beenden
+
+### Die non-verbale Kommunikation anpassen
+
+- Non-Verbale Körpersprache an Situation anpassen
+
+### Herabgesetzte Sprechgeschwindigkeit
+
+### Sympathie- oder Hilfethemen
+
+### Das Ego beiseitestellen
+
+- Gedanken, Meinungen, ... anderer zu akzeptieren
+  - auch wenn sie nicht der eigenen entspricht
+  - 
+
+### Bestätigung
+
+- Leuten Bestätigung in ihrer Meinung/Argumentation geben
+- Ausschüttung von Dopamin und Oxytocin
+
+### Wie-, Wann oder Warum-Fragen stellen
+
+- Details erfahren
+- Denkweise anderer erfahren
+
+### Quid pro quo
+
+- genügend von sich selbst preisgeben, sodass Zielperson das Gefühl hat, Sie asureichend zu kennen
+
+### Gegenseitiger Altruismus
+
+- Gegenseitiges Tür aufhalten
+- Gefühl, dass man sich für etwas revanchieren muss
+
+### Umgang mit den eigenen Ansprüchen
+
+- Methoden nicht überschreiten
+- Übermut kann Rapport wieder vernichten
+- Rechtzeitig beenden
+
+:arrow_right: Wichtigster Grundsatz beim Rapport: Vertrauen durch Gleichheit herzustellen
+
+### Der eigene Name
+
+- Namen haben starken Einfluss
+- leichtaussprechbare Namen haben einen positiven Effekt
+
+### 2.2.4
+#### Angriffsdurchführung
+
+##### Ködern (Baiting)
+
+- Kostenlose Geschenke
+
+##### Durchschlüpfen (Tailgating)
+
+Zugang zu physisch verschlossenen Bereichen erlangen, indem man hinter einer berechtigten Person durch eine Tür schlüpft.
+
+##### Spam E-Mails
+
+##### Phishing
+
+- Traditionelles Phising
+  - generische Mails
+  - Einfache Zustellmechanismen
+  - Große Menge an Zielen
+- Spear-Phishing
+  - Personalisierte Tools
+  - Nutzung moderner Mechanismen (TLS)
+  - Individueller Angriff auf Einzelpersonen
+
+#### Smishing und Vishing
+
+Smishing
+
+- Stehlen von Daten mittels SMS
+- Weiterleiten auf  betrügerische Seite
+
+Vishing
+
+- Angriff mittels eines Anrufs
+
+#### Technische Unterstützung
+
+- Social Engineer Toolkit (SET) (Kali Suite)
+  - Erstellung von Phising Webseiten
+- Burner Phone (Wegwerfhandys)
+- Caller ID Spoofing
+- Kamera
+- GPS Tracker
+- Lock Picking
+- Aufnahmegerät
+- RFID-Analyse
+  - emulierene, klonen
+
+### 2.2.5 Berichterstattung
+
+- Letzte Phase
+- Wissen für Auftragsgeber
+
+## 2.3 Bekannte Angriffe
+
+- Twitter Bitcoin Scam
+- CEO-Betrug bei Leoni
+- Präsidentschaftswahl E-Mail Leak
+- Toyota Boshoku Corporation BEC attack (Business-Email-Compromise)
+- Yahoo Datendiebstahl
+
+### Auswirkungen - Schadenspotenzial
+
+- Finanzieller Schaden
+- Reputation
+
+# Abwehrmechanismen
+
+## 3.1 Security Awarenes
+
+Bewusstsein für das Thema Sicherheit entwickeln
+
+- Zusammenspiel von Wissen, Können, Wollen
+- Sensibilisieren gegen Sicherheitsbedrohungen im Alltag
+
+### 3.1.2 Wie wird Security Awareness vermittelt?
+
+- Training
+- Lesen
+- Hören
+
+### 3.1.3 Security Awareness evaluieren
+
+- Fragebögen
+
+#### Security-Awareness-Testing
+
+- Mittels Phising Simulationen
+  - Schafft Transparenz
+  - Erhöht Security Awareness
+
+## 3.2 Technische und organisatorische Maßnahmen
+
+### 3.2.1 Zugangskontrolle
+
+- Passwörter
+- Passwörter und Passwortkomplexität
+- MFA
+
+### 3.2.2 Zutrittskontrolle
+Fingerabdruck
+- Iris- oder Netzhautscan
+- Handflächenabdruck
+- Handvenenerkennung
+- Gesichtsmerkmale
+
+Kombination schafft hohe Sicherheit
+
+### 3.2.3 Zugriffskontrolle
+
+Kernkomponente der Datensicherheit
+
+- Wer darf Unternehmensdaten abrufen und verwenden
+- Authentifizierung
+- Autorisierung
+- Abfragen Identität
+
+Einteilung von Daten in:
+
+- Öffentlich
+- Intern
+- Vertraulich
+- Streng vertraulich
+- Geheim
+
+#### Informationsentropy
+
+- Informationsgehalt bestimmen
+- Shannon Entropie
+
+### 3.2.4 Vorfilterung von Nachrichten
+
+- Durch Beschränkung des Empfangs von Nachrichten, kann die Empfänger verschont bleiben
+- Spam-Filter
+
+### 3.2.5 Umgang mit auffälligen Handlungen
+
+- Benachrichtigung von Fachleuten
+
+## 3.3 Regulatorische Maßnahmen
