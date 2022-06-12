@@ -135,7 +135,7 @@ Oxytocin verbindet mit anderen, lässt fühlen, was andere fühlen und lässt Me
 
 Wichtiger Neurotransmitter und "Botenstoff des Glücks".
 
-Asoziiert mit:
+Assoziiert mit:
 
 - Kreativität
 - emotionaler Intelligenz
@@ -195,3 +195,161 @@ Nutzung des Raums
 - sozialer Raum: 1,2 - 3 Meter als angemessen eingeschätzt
 - persönlicher Raum: als akzeptabel eingeschätzter Raum bei Familie, Freunden oder in Warteschlangen: 0,6 bis 1,2 Meter
 - Intimer Raum: 30cm
+
+#### Berührung
+
+- Integraler Bestandteil menschlicher Erfahrungen
+- Umarmung zur Freisetzung von Oxytocin
+
+##### Beruhigungsgesten
+
+- Folgen oft auf Situationen, in denen Unbehagen ausgelöst wird
+- Häufig Berühren an Hals und Nacken
+  - Oft Zeichen für Druck, Bedrohung, Unwohlsein, Unsicherheit, Nervosität
+- Durch Berührung werden beruhigende Endorphine im Gehirn ausgeschüttet und man entspannt sich in Folge
+
+##### Laszive Geste
+
+Werden eingesetzt um:
+
+- Aufmerksamkeit
+- Interesse
+- Nähe
+- Hoffnung
+
+zu symbolisieren.
+
+Beispiele:
+- Selbstberührung in Gesicht, Haaren und Armen
+- Spielen mit Kleidung
+- Schulterzucken
+- Klimpern mit Wimpern
+
+##### Authentizität von non-verbalen Signalen
+
+- Beine und Füße wichtiger Faktor
+- Authentizität nimmt von unten nach oben am Körper ab
+- Verkreuzte Beine stehen für Wohlfühlen
+  - limbisches System erlaubt diese Geste nur, wenn das Gefühl von Sicherheit anherrscht
+- Gespräch zwischen 2 Personen, O berkörper zeigen zueinander, Füße jedoch in eine andere Richtung, Indiz für Wunsch, an einem anderen ort zu sein
+
+#### Augenkontakt
+
+Ausruck verschiedener Bedeutungen:
+
+- Lügen
+- Dominanz
+- Flirten
+- Unbehagen
+
+#### Geruchsstoffe
+Assoziation mit Emotionen und Gefühlen.
+
+Mögliche hervorzurufende Emotionen:
+
+- Ekel
+- Angst
+
+Social Engineering niemals Körpergeruch aussetzen, außer Vorwand lässt dies zu.
+
+#### Musik
+
+- Musik kann Auslöser starker Emotionen und Gefühlen sein
+- Außerdem können Lieder an bestimmte Situationen erinnern
+- Forscher konnten erhöhte Dopamin Ausschüttung nachweisen
+
+Gezieltes Einsetzen von Musik kann das Verhalten einer Person beeinflussen
+
+#### Verkleidung
+
+- Kleidungsstücke oder Namensschilder, die Eindruck auf Leigimität der Handlung/Bitte bewirken sollen
+- Kann Schlussfolgerungen verursachen
+  - Arztkittel
+  - Malerkittel
+
+#### Gesichtsausdrücke
+
+Menschliches Gesicht enthält viele Informationen zu Gefühlen der Personen.
+
+![basisemotionen](img/basis-emotionen.png)
+
+Furcht, Freude, Trauer und Überraschung (von links nach rechts)
+
+Emotionen erzeugen neben inneren Signalen auch von Außen sichtbare Veränderungen :arrow_right: Mimik
+
+*Microexpressions*
+Kurze und subtile Mimik zu verstehen, die dauert normalerweise 1/25 bis 1/5 einer Sekunde und offenbart eine Emotion, die eine Person zu verbergen versucht.
+
+## 2.2 Methoden des Social Engineerings
+
+- Human-Based
+  - Erolgt mithilfe von sozialer Interaktion und sozialen Beziehungen
+- Computer-Based
+  - Erfolgt durch technische Hilfsmittel. E-Mail Anhänge oder manipulierte Inernetseiten
+- Reverse Social Engineering
+  - Opfer wird dazu gebracht freiwillig und aktiv gewünschten Informationen zu übermitteln
+
+![angriffsmethode](img/angriffspyramide.png)
+
+### Open Source Intelligence (OSINT)
+
+OSINT nutzt freie, verfügbare, offene Quellen wie Printmedien und TV, Internet zur Sammlung von Informationen, die anschließend zur Gewinnung von Erkenntnissen genutzt werden.
+
+### Vorwandsentwicklung
+
+- Basierend auf Erkenntnissen der OSINT-Phase sollen Vorwände geschaffen werden
+- Auswahl  der passenden Hilfsmittel und/oder Tools
+
+### Angriffsplanung
+
+Planung zu:
+
+- Was ist der Plan?
+- Wann ist der beste Zeitpunkt für den Angriff?
+- Wer muss für Unterstützung bereit stehen?
+
+### Angriffsdurchführung
+
+### Berichtsphase
+
+Ergebnisse dokumentieren
+
+### 2.2.1 Open Source Intelligence (OSINT)
+
+- Wichtiger Aspekt des Social Engineerings
+- Ausgang und Stützpunkt jedes Social Engineering Angriffes
+
+Jede Art von Information hat einen Wert
+
+#### Nicht technische Open Source Intelligence
+
+- Physikalische Beschattung
+  - Nachstellen
+  - Beobachten
+  - Belauschen
+
+:arrow_right: Auskundschaften von Routinen, Zeitplänen,  Vorlieben, Abneigungen
+
+##### Dumpster Diving
+
+Müll durchforsten
+
+##### Social Media
+
+##### Robots.txt
+
+##### Fotos und Meta-Informationen
+
+##### Telefon
+
+##### Personensuchmaschinen (Identity Resolution Engines)
+
+##### Ein- und Ausgänge (Gebäude)
+
+##### Zusammenfassung
+
+- Daten größtes Kapital eines Social Engineers
+- Sammeln von Daten häufig mühselig
+- Entscheidend für die Angriffsplanung
+- Diskreter Ablauf
+- Profilerstellung
