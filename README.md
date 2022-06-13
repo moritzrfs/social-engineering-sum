@@ -585,3 +585,25 @@ Einteilung von Daten in:
 - Benachrichtigung von Fachleuten
 
 ## 3.3 Regulatorische Maßnahmen
+
+- Gesetze
+- Normen
+- Grundsätze
+
+- ISO27001
+- BSI Grundschutz
+- DSGVO
+
+## 3.4 Praktische Tips für den alltäglichen Gebrauch
+
+# 4 Ausblick
+
+- Home-Office
+- Daten gegen Lösegeld
+- Angriffe mit KI
+- Verteidigung mt KI
+- Gamification
+  - Awareness Schaffung mit spielerischem Ansatz
+- Regulatorische Veränderungen
+  - verschärfte Anforderungen durch Behörden
+- Sicherheit gemeinsam angehen
